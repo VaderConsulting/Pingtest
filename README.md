@@ -1,6 +1,6 @@
 # Pingtest
 
-VB6 working copy of `Pingtest` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: PingTest. Output: `PingTest.exe`. `VersionCompanyName`: CSC.
+CSC VB6 Ping Test host (`PingTest.exe` / `Pingtest.vbp`): demo/harness for `ctlPing.ocx` — pick servers from ADO, Start/Loop/Stop ping with progress bars, optional CSV of round-trip times. Open `Pingtest.vbp` in the VB6 IDE (needs `ctlPing.ocx`).
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
