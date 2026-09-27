@@ -1,6 +1,6 @@
 # Pingtest
 
-CSC VB6 Ping Test host (`PingTest.exe` / `Pingtest.vbp`): demo/harness for `ctlPing.ocx` — pick servers from ADO, Start/Loop/Stop ping with progress bars, optional CSV of round-trip times. Open `Pingtest.vbp` in the VB6 IDE (needs `ctlPing.ocx`).
+CSC VB6 Ping Test host (`PingTest.exe` / `Pingtest.vbp`): demo/harness for `ctlPing.ocx` - pick servers from ADO, Start/Loop/Stop ping with progress bars, optional CSV of round-trip times. Open `Pingtest.vbp` in the VB6 IDE (needs `ctlPing.ocx`).
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
